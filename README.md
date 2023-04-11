@@ -1,16 +1,20 @@
-# world_time
+# World Clock
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+World Clock is a simple and easy-to-use mobile application that lets you keep track of time for major cities around the world. With its intuitive user interface and easy-to-use features, you can easily see the current time and date in different time zones, making it a perfect tool for travelers, remote workers, and anyone who needs to keep track of time in multiple locations.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+* Add and remove time zones with ease
+* Get your time in 24-hour time format
+* Intuitive and beautiful user interface.
+* Different them for Day and Morning.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+1. Launch the World Clock app..
+2. Choose a city from the list of major cities by name.
+3. Tap on the city to see it's instant time (Offset +30 min).
+
