@@ -9,7 +9,7 @@ World Clock is a simple and easy-to-use mobile application that lets you keep tr
 * Add and remove time zones with ease
 * Get your time in 24-hour time format
 * Intuitive and beautiful user interface.
-* Different them for Day and Morning.
+* Different theme for Day and Morning.
 
 
 ## Usage
