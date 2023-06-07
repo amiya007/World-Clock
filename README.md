@@ -12,6 +12,13 @@ World Clock is a simple and easy-to-use mobile application that lets you keep tr
 * Different theme for Day and Morning.
 
 
+## Download APK
+
+You can download the latest version of the APK from the following link:
+
+[Download APK](https://drive.google.com/uc?export=download&id=145WgQovJRsaniBthOkff5lhW5ojcDFli) &#x2193;
+
+
 ## Usage
 
 1. Launch the World Clock app..
